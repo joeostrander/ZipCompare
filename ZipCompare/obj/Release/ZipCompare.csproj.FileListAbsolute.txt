@@ -1,0 +1,9 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\bin\Release\ZipCompare.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\bin\Release\ZipCompare.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\bin\Release\ZipCompare.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\obj\Release\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\obj\Release\ZipCompare.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\obj\Release\ZipCompare.csproj.GenerateResource.Cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\obj\Release\ZipCompare.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZipCompare\ZipCompare\obj\Release\ZipCompare.pdb
